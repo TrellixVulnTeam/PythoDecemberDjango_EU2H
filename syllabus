@@ -1,0 +1,104 @@
+
+#system reqmts python3.x  pycharm
+python(django,flask,oodo)
+python(3.O)  python3.x
+
+==========
+
+LanguageFundamentals
+   #identifiers (name is called identifires [variable name,function name,classname])
+   #input and output functions(print(),input())
+   #coding standars
+   #operators(A.o,R.o,L.o)
+
+FlowControlls
+    #Decision making(if..else,if...elif...else)
+    #looping ,iterations(for,while)
+    #jumping stmts(break,continue)
+
+Datastructures(python collections)
+    #list
+    #set
+    #tuple
+    #dictionary
+
+File I/O
+========
+    #read
+    #write
+    #append
+
+======pythoncore===========================
+
+
+objectOrientedProgramming
+========================
+    #class(blueprint,plan,etc)
+    #object(bulding1,building2,)
+    #reference(
+    #inheritance(single,multilevel,multiple)
+    #polymorphism(method overloadig,method overriding,operator overloading)
+
+functionalprogramming
+=====================
+    #lambda functions
+    #map()
+    #filter()
+    #reduce
+    #list comprehension
+
+
+    def add(num1,num2):
+        return num1+num2
+    add=lambda num1,num2:num1+num2
+
+
+regularexpression
+=================
+    #pattern matching
+
+
+exceptionHandling
+==================
+#try except finally
+
+decorators
+==========
+
+database
+========
+mysql(queries)
+python to mysql
+
+
+
+git and github
+
+
+
+frontend
+========
+html
+css
+bootstrap
+javascript
+
+
+Django
+======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
